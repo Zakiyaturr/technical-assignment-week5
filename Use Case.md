@@ -1,0 +1,3 @@
+Sensor merupakan bagian dari kamera yang berfungsi untuk menangkap gambar atau semua informasi yang terdapat dalam file RAW. Cahaya yang di tangkap kemudian dipantulkan oleh lensa ke sensor untuk membuat gambar. Sensor camera module digunakan untuk menambahkan fasilitas kamera pada board raspberry pi. Penggunaan modul sensor ini harus disertai dengan script python agar bisa digunakan.
+
+Tim kami menggunakan modul camera raspberry pi ini untuk memantau keadaan dan posisi bayi, sensor ini akan terhubung ke sebuah website sehingga user kami dapat memantau kondisi bayinya secara real time melalui modul camera tersebut. 
